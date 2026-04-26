@@ -6,7 +6,7 @@ python assign_events.py
 
 Сохранить имя сессии!
 
-№№ Шаг 2: Сохранение .h5 из AppData\Roaming\Capsule Data v2\Sessions
+## Шаг 2: Сохранение .h5 из AppData\Roaming\Capsule Data v2\Sessions
 Переименовать файл в ТО ЖЕ ИМЯ: session_YYYYMMDD_HHMMSS.h5
 Положить в папку raw_data/
 
