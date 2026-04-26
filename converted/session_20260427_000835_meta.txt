@@ -1,0 +1,8 @@
+source_file: session_20260427_000835.h5
+sfreq: 250
+duration_sec: 233.8
+n_samples: 58450
+n_channels: 9
+channels: O1, O2, activity, attention, relaxation, alpha, beta, theta, delta
+active_eeg_channels: ch[1, 2]
+events_file: session_20260427_000835.txt

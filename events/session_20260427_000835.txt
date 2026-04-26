@@ -1,0 +1,10 @@
+session_start_unix: 1777237715.061795
+session_start_local: 2026-04-27 00:08:35
+T0_start_recording: 0
+T1_baseline_end: 50.96252679824829
+T2_walk_start: 81.95904064178467
+T3_walk_end: 120.12051510810852
+T4_exercise_start: 123.82071089744568
+T5_exercise_end: 138.98712253570557
+T6_recovery_end: 146.7716507911682
+T7_stop_recording: 155.6431245803833
